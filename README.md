@@ -18,3 +18,4 @@ Technologies used in the project:
 *   Room database
 *   MVVM
 *   Retrofit
+*   Xml
